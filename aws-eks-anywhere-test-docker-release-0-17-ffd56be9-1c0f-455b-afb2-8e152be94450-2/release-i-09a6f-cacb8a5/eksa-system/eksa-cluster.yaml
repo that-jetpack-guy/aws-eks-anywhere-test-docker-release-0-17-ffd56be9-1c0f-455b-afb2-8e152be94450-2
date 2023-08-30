@@ -32,7 +32,7 @@ spec:
   managementCluster:
     name: release-i-09a6f-cacb8a5
   workerNodeGroupConfigurations:
-  - count: 3
+  - count: 1
     name: md-0
 
 ---
